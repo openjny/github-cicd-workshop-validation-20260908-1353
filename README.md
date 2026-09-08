@@ -5,7 +5,7 @@ Issue、ブランチ、Pull Request、CI、GitHub Pages CD を一巡するため
 ## 前提条件
 
 - Git
-- Node.js 22（最低要件は Node.js 20.19）
+- Node.js 22 LTS
 - npm
 - GitHub Actions と GitHub Pages を利用できる GitHub リポジトリ
 
