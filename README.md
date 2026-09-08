@@ -51,9 +51,9 @@ git switch -c feature/1-low-availability
 
 Pages workflow は次の公式アクションを使用します。
 
-- `actions/configure-pages@v5`
-- `actions/upload-pages-artifact@v4`
-- `actions/deploy-pages@v4`
+- `actions/configure-pages@v6`
+- `actions/upload-pages-artifact@v5`
+- `actions/deploy-pages@v5`
 
 Secrets は不要です。
 
